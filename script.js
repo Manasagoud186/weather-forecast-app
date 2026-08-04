@@ -4,3 +4,8 @@ function addTransaction(){
 console.log("Transaction Added");
 
 }
+function deleteTransaction(){
+
+console.log("Transaction Deleted");
+
+}
