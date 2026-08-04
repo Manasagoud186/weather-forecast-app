@@ -9,3 +9,4 @@ function deleteTransaction(){
 console.log("Transaction Deleted");
 
 }
+localStorage.setItem("transactions","[]");
