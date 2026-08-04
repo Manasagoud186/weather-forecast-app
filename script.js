@@ -1,7 +1,1 @@
-const apiKey="YOUR_API_KEY";
-async function getWeather(city){
-
-}
-console.log("Weather App Started");
-alert("City not found");
-// Final Cleanup
+const balance=document.querySelector("h3");
