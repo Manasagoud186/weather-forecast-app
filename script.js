@@ -10,3 +10,4 @@ console.log("Transaction Deleted");
 
 }
 localStorage.setItem("transactions","[]");
+// Final Cleanup
