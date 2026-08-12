@@ -1,5 +1,4 @@
 # Expense Tracker
-# Expense Tracker
 
 ## Features
 
